@@ -25,10 +25,29 @@ There is total 491 number of students in 9th grade at Thomas High School, which 
 ![](https://github.com/BessHung/School_District_Analysis/blob/31902f7ae327f1270577eae65eeb5c2e18c369b3/Resources/District%20summary_modified.png)
 
 - #### School summary
-9th grade Thomas High School data have been exclude when recalculating the summary scores by school. The average and percentage results showing in the screenshot below are going down. It indicates that the performance of the students in 9th grade are above the average in Thomas High School with original data. Beside, there are no changes to the other schools.
+9th grade Thomas High School data have been excluded when recalculating the summary scores by school. The average and percentage results showing in the screenshot below are going down. It indicates that the performance of the students in 9th grade are above the average in Thomas High School with original data. Besides, there are no changes to the other schools.
 ###### Original THS summary 
 ![](https://github.com/BessHung/School_District_Analysis/blob/bb1d7c1c94f3e5fed306fa5bd65d25e59205ea65/Resources/THS%20summary_original.png)
 ###### Revised THS summary
 ![](https://github.com/BessHung/School_District_Analysis/blob/31902f7ae327f1270577eae65eeb5c2e18c369b3/Resources/THS%20summary_modified.png)
+
+- #### School ranking
+The school ranking is determine by the percentage of overall passing. Althouge the performance from Thomas High School is dropping slightly after recalculating, its ranking is still remaining in the 2nd place. Moreover, in the top 5 school, it is just less than 0.1% difference between the 2nd place and the 5th place, which means that the school ranking could be changed if there are any issues happened again.
+
+###### Top 5 school 
+![](https://github.com/BessHung/School_District_Analysis/blob/dd1734a29e5b7f506e89fab9346e1acd3252a550/Resources/Top5_modified.png)
+###### Bottom 5 school
+![](https://github.com/BessHung/School_District_Analysis/blob/dd1734a29e5b7f506e89fab9346e1acd3252a550/Resources/Bottom5_modified.png)
+
+- #### Math and reading scores by grade
+Since the results are grouping by each school, the math and reading scores by grade tables didn't change except for 9th grade Thomas High School data, which value have been replaced with "NAN".
+
+
+- #### Scores by school spending
+No significant difference since Thomas High School is in the same spending ranges and only a minimal amount of its 9th grade data has been replaced.
+- #### Scores by school size
+No significant difference since Thomas High School is in the same school size and only a minimal amount of its 9th grade data has been replaced.
+- #### Scores by school type
+No significant difference since Thomas High School is in the same school type and only a minimal amount of its 9th grade data has been replaced.
 
 ## Summary
