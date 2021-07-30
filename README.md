@@ -41,13 +41,16 @@ The school ranking is determine by the percentage of overall passing. Althouge t
 
 - #### Math and reading scores by grade
 Since the results are grouping by each school, the math and reading scores by grade tables didn't change except for 9th grade Thomas High School data, which value have been replaced with "NAN".
-
-
+###### Math scores by grade and Reading scores by grade
+![](https://github.com/BessHung/School_District_Analysis/blob/8af462129d2c1c18cadcdb6d56fab8f8625d345a/Resources/Math%20scores%20by%20grade_modified.png)
+![](https://github.com/BessHung/School_District_Analysis/blob/8af462129d2c1c18cadcdb6d56fab8f8625d345a/Resources/Reading%20scores%20by%20grade_modified.png)
 - #### Scores by school spending
-No significant difference since Thomas High School is in the same spending ranges and only a minimal amount of its 9th grade data has been replaced.
-- #### Scores by school size
-No significant difference since Thomas High School is in the same school size and only a minimal amount of its 9th grade data has been replaced.
-- #### Scores by school type
-No significant difference since Thomas High School is in the same school type and only a minimal amount of its 9th grade data has been replaced.
 
+![](https://github.com/BessHung/School_District_Analysis/blob/8af462129d2c1c18cadcdb6d56fab8f8625d345a/Resources/Scores%20by%20School%20Spending_modified.png)
+- #### Scores by school size
+
+![](https://github.com/BessHung/School_District_Analysis/blob/8af462129d2c1c18cadcdb6d56fab8f8625d345a/Resources/Scores%20by%20School%20Size_modified.png)
+- #### Scores by school type
+
+![](https://github.com/BessHung/School_District_Analysis/blob/8af462129d2c1c18cadcdb6d56fab8f8625d345a/Resources/Scores%20by%20School%20Type_modified.png)
 ## Summary
