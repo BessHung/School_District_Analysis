@@ -57,3 +57,8 @@ Since the results are grouping by each school, the math and reading scores by gr
 
 ![](https://github.com/BessHung/School_District_Analysis/blob/8af462129d2c1c18cadcdb6d56fab8f8625d345a/Resources/Scores%20by%20School%20Type_modified.png)
 ## Summary
+1.	In district summary table, the average math and reading score are almost the same, and the “% Passing Math”, “% Passing Reading” and “% Overall Passing” are drop around 0.1% to 0.3%.
+2.	In school summary table, the average and percentage results for Thomas High School are going down slightly.
+3.	The school ranking is regarding its overall passing percentage, Thomas High School is still remaining the 2nd place after recalculating its 10th to 12th grade data. Yet, if we don’t exclude the number of 9th grade students, which is 28% of the Thomas High School students, the ranking will fall rapidly for sure. 
+4.	In Reading and math scores by grade table, 9th grade in Thomas High School display “NAN” error cause all of the scores has been replaced.
+
