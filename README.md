@@ -17,7 +17,7 @@ However, the school board has notified that the file shows evidence of academic 
 Due to the academic dishonesty issue, all the ninth-grade reading and math scores at Thomas High School have been replaced by “NAN”.  Thus, the data for reviewing school performance have been recalculated. Comparing with the original results, here are the effects of the new analysis.
 
 - #### District summary
-There is total 491 number of students in 9th grade at Thomas High School, which is 1.25% of entire data. After excluding those data, as we can see from the screenshots, the average math and reading score are almost the same, and the “% Passing Math”, “% Passing Reading” and “% Overall Passing” are drop around 0.1% to 0.3%.
+There is total 461 number of students in 9th grade at Thomas High School, which is 1.25% of entire data. After excluding those data, as we can see from the screenshots, the average math and reading score are almost the same, and the “% Passing Math”, “% Passing Reading” and “% Overall Passing” are drop around 0.1% to 0.3%.
 
 ###### Original district summary 
 ![](https://github.com/BessHung/School_District_Analysis/blob/158fd1bb78402b63631e95c09dfd11d52290bbb1/Resources/District%20summary_original.png)
@@ -44,13 +44,16 @@ Since the results are grouping by each school, the math and reading scores by gr
 ###### Math scores by grade and Reading scores by grade
 ![](https://github.com/BessHung/School_District_Analysis/blob/8af462129d2c1c18cadcdb6d56fab8f8625d345a/Resources/Math%20scores%20by%20grade_modified.png)
 ![](https://github.com/BessHung/School_District_Analysis/blob/8af462129d2c1c18cadcdb6d56fab8f8625d345a/Resources/Reading%20scores%20by%20grade_modified.png)
-- #### Scores by school spending
+
+
+- #### Since the NANs data were just a minimal part of data, they don’t significantly affect the results below.
+###### Scores by school spending
 
 ![](https://github.com/BessHung/School_District_Analysis/blob/8af462129d2c1c18cadcdb6d56fab8f8625d345a/Resources/Scores%20by%20School%20Spending_modified.png)
-- #### Scores by school size
+###### Scores by school size
 
 ![](https://github.com/BessHung/School_District_Analysis/blob/8af462129d2c1c18cadcdb6d56fab8f8625d345a/Resources/Scores%20by%20School%20Size_modified.png)
-- #### Scores by school type
+###### Scores by school type
 
 ![](https://github.com/BessHung/School_District_Analysis/blob/8af462129d2c1c18cadcdb6d56fab8f8625d345a/Resources/Scores%20by%20School%20Type_modified.png)
 ## Summary
